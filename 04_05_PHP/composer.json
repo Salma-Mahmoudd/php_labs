@@ -1,0 +1,14 @@
+{
+  "autoload": {
+    "classmap": [
+      "Models/",
+      "Interfaces/"
+    ],
+    "files": [
+      "includes/config.php"
+    ]
+  },
+  "require": {
+    "illuminate/database": "^10.48"
+  }
+}

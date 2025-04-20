@@ -1,0 +1,10 @@
+{
+  "name": "salma/03_php",
+  "autoload": {
+    "classmap": [
+      "classes/",
+      "config/"
+    ]
+  },
+  "require": {}
+}
